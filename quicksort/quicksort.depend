@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1409761902 source:e:\programe code blocks\quicksort\fisier.out.c
+
+1409762181 source:e:\programe code blocks\quicksort\quicksort.cpp
+	<fstream>
+	<vector>
+

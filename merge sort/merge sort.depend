@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409816487 source:e:\programe code blocks\merge sort\merge sort.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
