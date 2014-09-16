@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1409568668 source:d:\programare\programe code blocks\cautare binara\cautare binara.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+
+1410874925 source:e:\programe code blocks\cautare binara\cautare binara.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

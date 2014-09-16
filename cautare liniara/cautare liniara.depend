@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410874377 source:e:\programe code blocks\cautare liniara\main.cpp
+	<fstream>
+	<vector>
+
